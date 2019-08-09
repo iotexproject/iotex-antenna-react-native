@@ -35,7 +35,7 @@ export function TopBar(): JSX.Element {
             source={require("../assets/images/icon.png")}
           />
           <Text style={{ color: colors.white, fontSize: 18 }}>
-            mobile-onefx-boilerplate
+            iotex-antenna-react-native
           </Text>
         </View>
       </View>

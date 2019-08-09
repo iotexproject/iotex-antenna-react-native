@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-onefx-boilerplate",
-    "slug": "mobile-onefx-boilerplate",
+    "name": "iotex-antenna-react-native",
+    "slug": "iotex-antenna-react-native",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": ["ios", "android"],
